@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e74db24d-7126-445f-a270-69b9ef59936b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iq8XArh0qidEpHREc3o4qhLnBT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74db24d-7126-445f-a270-69b9ef59936b" name="Default Changelist" comment="" />
+      <created>1602623798428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602623798428</updated>
+      <workItem from="1602623799584" duration="1151000" />
+      <workItem from="1602624964943" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="167" key="FileChooserDialogImpl" timestamp="1602625071145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602625071145" />
+    <state x="201" y="310" key="Github.ShareDialog" timestamp="1602624870430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="201" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602624870430" />
+    <state x="158" y="117" key="Github.UntrackedFilesDialog" timestamp="1602624881005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="158" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602624881005" />
+  </component>
+</project>
